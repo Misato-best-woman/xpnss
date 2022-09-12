@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XPNSS</string>
+    <string name="balance">Balance</string>
+    <string name="income">Income</string>
+    <string name="outcome">Outcome</string>
+</resources>

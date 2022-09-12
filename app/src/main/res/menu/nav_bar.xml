@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/balance"
+        android:title="@string/balance"
+        android:icon="@drawable/balance_nav_bar"/>
+    <item
+        android:id="@+id/income"
+        android:title="@string/income"
+        android:icon="@drawable/income_nav_bar"/>
+    <item
+        android:id="@+id/outcome"
+        android:title="@string/outcome"
+        android:icon="@drawable/outcome_nav_bar"/>
+</menu>

@@ -10,7 +10,7 @@ import com.google.android.material.navigation.NavigationBarView
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        loadFragment(OutcomeFragment())
+        loadFragment(BalanceFragment())
 
         val navBar = findViewById<NavigationBarView>(R.id.navBar)
         navBar.setOnItemSelectedListener {

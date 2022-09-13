@@ -17,7 +17,7 @@ class PieChart {
         * I think a double for with a while
          */
 
-        pie.data()
+        //pie.data()
         view.setChart(pie)
     }
 }

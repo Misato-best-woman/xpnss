@@ -3,4 +3,6 @@
     <string name="balance">Balance</string>
     <string name="income">Income</string>
     <string name="outcome">Outcome</string>
+    <string name="income_button">Button to add an income</string>
+    <string name="outcome_button">Button to add an outcome</string>
 </resources>

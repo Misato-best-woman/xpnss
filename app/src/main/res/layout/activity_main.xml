@@ -20,7 +20,6 @@
         android:id="@+id/navBar"
         android:layout_width="match_parent"
         android:layout_height="55dp"
-        android:background="@color/cardview_dark_background"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

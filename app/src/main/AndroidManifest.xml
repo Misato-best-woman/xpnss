@@ -14,9 +14,17 @@
         android:theme="@style/Theme.XPNSS"
         tools:targetApi="31">
         <activity
+            android:name=".OutcomeActivity"
+            android:exported="false"
+            android:label="@string/outcome"/>
+        <activity
+            android:name=".IncomeActivity"
+            android:exported="false"
+            android:label="@string/income"/>
+        <activity
             android:name=".MainActivity"
-            android:label="@string/balance"
-            android:exported="true">
+            android:exported="true"
+            android:label="@string/balance">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

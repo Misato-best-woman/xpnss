@@ -18,5 +18,5 @@
         android:focusable="true"
         android:src="@drawable/outcome_nav_bar"
         app:maxImageSize="42dp"
-        android:backgroundTint="@color/outcome_red"/>
+        app:backgroundTint="@color/outcome_red"/>
 </FrameLayout>
